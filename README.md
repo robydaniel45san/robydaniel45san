@@ -5,15 +5,26 @@
 </a>
 
 ```text
-                  .       *          .       .       *
-       *                .       .-""""-.             .
-             .    *             /  .--.  \      *
-     .                  .      |  /    \  |              .
-                 .             | |  🚀  | |        *
-       *                       |  \____/  |   .
-                 .             \   __   /              .
-       .                  *      '-.__.-'       *
-                  .       ─────── ROBY ───────
+            *              .                 *
+                  .-""""-.        .-""""-.
+       .         /  .--.  \      /  .-.  \          .
+                |  |    |  |    |  (   )  |
+          *      \  '--'  /      \  '-'  /
+                  '-.__.-'        '-.__.-'
+                    ROBY            MOON
+                 ASTRONAUT
+                         .-.
+                   .--- /___\ ---.
+                  /    |  _  |    \       *
+                 /     | | | |     \
+                /      | |_| |      \
+               /_______|_____|_______\
+                    .---| |---.
+                   /    | |    \
+                  /_____|_|_____\
+                         / \
+                        /___\     ROCKET
+             *       .           .           *
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&pause=1100&color=60A5FA&center=true&vCenter=true&width=780&lines=Se%C3%B1al+recibida%3A+Roby+Daniel+est%C3%A1+en+l%C3%ADnea;Exploro+software%2C+datos%2C+IA+y+productos+reales;Construyo+con+Corporaci%C3%B3n+Pandas+Dev;Cada+repositorio+es+una+nueva+%C3%B3rbita)](https://git.io/typing-svg)
@@ -134,6 +145,34 @@ Proyecto de sistemas de gestión dentro de la organización **CorporacionPandasD
 | 🧪 Prototipos | Validar ideas y convertirlas en algo usable |
 
 > No colecciono tecnologías por moda: elijo las herramientas que ayudan a que la misión avance.
+
+## 🎮 `side-quest` · estación gamer
+
+Fuera de la órbita de proyectos, también hay espacio para partidas, logros y exploración. Esta es una ficha visual del perfil, no una API en vivo:
+
+```console
+$ player
+PLAYER: ROBY
+ALIAS: roby
+STATUS: explorando universos
+STEAM: [ perfil público conectado ]
+```
+
+<div align="center">
+
+[![Steam](https://img.shields.io/badge/Steam-Visitar%20perfil-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198392223030/)
+
+</div>
+
+<details>
+<summary>🕹️ Abrir registro de la side-quest</summary>
+
+Perfil público: [steamcommunity.com/profiles/76561198392223030](https://steamcommunity.com/profiles/76561198392223030/)  
+Alias visible: **roby / danielduranaguilarrr**  
+Zona visible: **Warnes, Santa Cruz, Bolivia**  
+Actividad observada: **Counter-Strike 2, otros juegos y logros**
+
+</details>
 
 ## 🪐 `next-transmission` · contacto
 
