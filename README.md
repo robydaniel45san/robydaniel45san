@@ -85,12 +85,10 @@ Al revisar el perfil público se observan vitrinas de logros y actividad recient
 
 ## 🔗 enlaces
 
-| destino | acceso |
-| --- | --- |
-| GitHub | [@robydaniel45san](https://github.com/robydaniel45san) |
-| Landing | [CPDev](https://corporacionpandasdev.tech/) |
-| Organización | [Pandas Dev](https://github.com/CorporacionPandasDEV) |
-| Steam | [roby](https://steamcommunity.com/profiles/76561198392223030/) |
+- **GitHub:** [@robydaniel45san](https://github.com/robydaniel45san)
+- **Landing:** [CPDev](https://corporacionpandasdev.tech/)
+- **Organización:** [Pandas Dev](https://github.com/CorporacionPandasDEV)
+- **Steam:** [roby](https://steamcommunity.com/profiles/76561198392223030/)
 
 ### estado actual
 
