@@ -1,12 +1,25 @@
 <div align="center">
 
+```text
+██████╗  ██████╗ ██████╗ ██╗   ██╗
+██╔══██╗██╔═══██╗██╔══██╗╚██╗ ██╔╝
+██████╔╝██║   ██║██████╔╝ ╚████╔╝ 
+██╔═══╝ ██║   ██║██╔══██╗  ╚██╔╝  
+██║     ╚██████╔╝██║  ██║   ██║   
+╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+
+        D A N I E L  D U R A N  A G U I L A R
+        code • ideas • products • pandas 🐼
+```
+
 # 👋 ¡Hola! Soy Roby Daniel Duran Aguilar
 
-### 🚀 Diseñador de sueños · Constructor de soluciones digitales · Cofundador de [Corporación Pandas Dev](https://github.com/CorporacionPandasDEV)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7B61FF&center=true&vCenter=true&width=720&lines=Construyo+soluciones+digitales+con+prop%C3%B3sito;Convierto+ideas+en+productos+reales;Cofundador+de+Corporaci%C3%B3n+Pandas+Dev;Siempre+aprendiendo%2C+iterando+y+creando)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-robydaniel45san-181717?style=for-the-badge&logo=github)](https://github.com/robydaniel45san)
 [![Corporación Pandas Dev](https://img.shields.io/badge/Empresa-Corporación%20Pandas%20Dev-7B61FF?style=for-the-badge&logo=googlecloud)](https://corporacionpandasdev.tech/)
-[![Ubicación](https://img.shields.io/badge/Santa%20Cruz%20de%20la%20Sierra-Bolivia-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/robydaniel45san)
+[![Organización](https://img.shields.io/badge/Organización-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/CorporacionPandasDEV)
+[![Santa Cruz de la Sierra](https://img.shields.io/badge/Santa%20Cruz%20de%20la%20Sierra-Bolivia-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/robydaniel45san)
 
 > **Ideas claras. Código con propósito. Productos que trabajan a favor de tu empresa.**
 
@@ -14,96 +27,141 @@
 
 ---
 
-## 🧠 Sobre mí
+## `whoami` 🧠
 
-Soy **Roby Daniel Duran Aguilar**, desarrollador y creador de soluciones digitales desde Santa Cruz de la Sierra, Bolivia. Me gusta transformar ideas, procesos y problemas reales en experiencias digitales útiles, claras y escalables.
+```console
+$ whoami
+robydaniel45san
 
-Mi filosofía es simple: **primero entiendo el negocio, después diseño la solución y finalmente construyo algo que pueda crecer contigo**.
+$ cat mission.txt
+Transformar ideas, procesos y problemas reales
+en experiencias digitales útiles, claras y escalables.
 
-- 🔭 Construyendo productos, prototipos y herramientas para problemas reales.
-- 🧪 Explorando inteligencia artificial, análisis de datos y automatización.
-- 🏗️ Diseñando experiencias web, sistemas de gestión y soluciones a medida.
-- 🤝 Creando junto a la comunidad de **Corporación Pandas Dev**.
-- 🎯 Siempre aprendiendo, iterando y convirtiendo ideas en proyectos.
+$ status
+[████████████████████] online
+[███████████████████░] aprendiendo
+[████████████████████] construyendo
+```
 
-## 🐼 Corporación Pandas Dev
+Soy desarrollador y creador de soluciones digitales desde **Santa Cruz de la Sierra, Bolivia**. Me gusta entender el problema antes de escribir código y construir productos que puedan crecer junto a las personas y empresas que los usan.
 
-En [**Corporación Pandas Dev**](https://github.com/CorporacionPandasDEV) creamos software que trabaja a favor de tu empresa: soluciones digitales a medida, productos SaaS y acompañamiento técnico para que cada proyecto llegue desde la idea hasta producción.
+- 🔭 Productos, prototipos y herramientas para problemas reales.
+- 🧪 Inteligencia artificial, análisis de datos y automatización.
+- 🏗️ Experiencias web, sistemas de gestión y soluciones a medida.
+- 🤝 Construcción colaborativa con **Corporación Pandas Dev**.
+- ☕ Código, curiosidad y muchas iteraciones.
 
-### Lo que hacemos
+## 🐼 `corporacion-pandas-dev`
 
-| Área | Cómo ayudamos |
+En [**Corporación Pandas Dev**](https://github.com/CorporacionPandasDEV) creamos software que trabaja a favor de tu empresa: desde la idea y el descubrimiento hasta la puesta en marcha y el acompañamiento.
+
+```text
+idea ──▶ descubrimiento ──▶ diseño ──▶ desarrollo
+                                      │
+                                      ▼
+soporte ◀── documentación ◀── entrega ◀── verificación
+```
+
+| Servicio | Enfoque |
 | --- | --- |
 | 🧩 Desarrollo a medida | Aplicaciones web y móviles ajustadas a tus procesos |
 | ☁️ Productos SaaS | Plataformas en la nube listas para usar |
 | 🛠️ Cloud y DevOps | Migraciones, CI/CD, contenedores y respaldos probados |
 | 🔍 Consultoría y auditoría | Arquitectura, revisión de código y seguridad |
-| 🛡️ Soporte con SLA | Monitoreo, parches y corrección de errores con acuerdos claros |
+| 🛡️ Soporte con SLA | Monitoreo, parches y corrección de errores |
 | 👥 Staff augmentation | Talento técnico que se integra a tu equipo |
 
-🌐 **Conoce la empresa:** [corporacionpandasdev.tech](https://corporacionpandasdev.tech/)
+<div align="center">
 
-📦 **Explora la organización:** [github.com/CorporacionPandasDEV](https://github.com/CorporacionPandasDEV)
+🌐 **[Visita corporacionpandasdev.tech](https://corporacionpandasdev.tech/)** · 📦 **[Explora la organización](https://github.com/CorporacionPandasDEV)**
 
-## 🧪 Proyectos destacados
+</div>
 
-> Una selección de proyectos públicos que muestran distintas áreas de exploración y construcción.
+## ⚡ Proyectos que están en mi órbita
+
+> Cada repositorio es una estación distinta: aprender, probar, resolver y volver a construir mejor.
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🏆 [campeonato-plantillas](https://github.com/robydaniel45san/campeonato-plantillas)
-Sistema de gestión de campeonatos deportivos construido con **React, Vite y Supabase**.
+Sistema de gestión de campeonatos deportivos con **React, Vite y Supabase**.
+
+</td>
+<td width="50%">
 
 ### 🐼 [corporacionpanda-site](https://github.com/robydaniel45san/corporacionpanda-site)
-Landing de **Corporación Pandas Dev**, enfocada en presentar servicios y soluciones digitales a medida.
+Landing de **Corporación Pandas Dev** para presentar servicios digitales.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🤖 [CASO-IA-MODELADO](https://github.com/robydaniel45san/CASO-IA-MODELADO)
-Proyecto de grado enfocado en el modelado de un caso de **clustering** y exploración de inteligencia artificial.
+Proyecto académico de modelado de un caso de **clustering**.
+
+</td>
+<td width="50%">
 
 ### ⚡ [Cobrix API](https://github.com/robydaniel45san/Cobrix-Api-Prueba-Tecnica-Duran-Roby)
 Prueba técnica de una API desarrollada con **TypeScript**.
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🎮 [jumanji-virutual](https://github.com/robydaniel45san/jumanji-virutual)
 Experimento interactivo desarrollado con **JavaScript**.
 
+</td>
+<td width="50%">
+
 ### 🌟 [hobbylocos](https://github.com/robydaniel45san/hobbylocos)
-Proyecto público de comunidad y hobbies que ya cuenta con ⭐ reconocimiento de visitantes.
+Proyecto público de comunidad y hobbies con ⭐ de visitantes.
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary>🔎 Ver más proyectos</summary>
+<summary>🔎 Desplegar más proyectos</summary>
 
 - [Sistema ERP](https://github.com/CorporacionPandasDEV/Sistema-ERP-project) — proyecto de la organización.
-- [Landing CPDev 2026](https://github.com/CorporacionPandasDEV/Landing-CPDev2026) — presencia web de Corporación Pandas Dev.
+- [Landing CPDev 2026](https://github.com/CorporacionPandasDEV/Landing-CPDev2026) — presencia web de la empresa.
 - [Simulación Caso 3](https://github.com/robydaniel45san/simulacion-caso-3-de-estudio) — simulaciones del proyecto académico.
 - [xv-album](https://github.com/robydaniel45san/xv-album) — proyecto web creativo.
 - [tiendamercadito](https://github.com/robydaniel45san/tiendamercadito) — tienda virtual.
 
 </details>
 
-## 🧰 Áreas en las que construyo
+## 🧰 Áreas de construcción
 
 ```text
-Desarrollo web       ████████████████████  Interfaces y productos digitales
-Sistemas de gestión  ██████████████████░░  Flujos, datos y operaciones
-APIs y backend       ████████████████░░░░  Servicios conectados y escalables
-IA y datos           ██████████████░░░░░░  Modelado, clustering y experimentación
-Cloud y DevOps       ████████████░░░░░░░░  Entrega, despliegue y continuidad
+WEB / PRODUCTOS       ████████████████████  interfaces y experiencias
+SISTEMAS DE GESTIÓN   ██████████████████░░  datos, flujos y operaciones
+APIs / BACKEND        ████████████████░░░░  servicios conectados
+IA / DATOS             ██████████████░░░░░░  modelado y experimentación
+CLOUD / DEVOPS         ████████████░░░░░░░░  entrega y continuidad
 
-Siempre aprendiendo  ████████████████████  100%
+MODO ACTUAL            [ creando... ████████████████████ ]
 ```
 
-## 🌎 Mi forma de trabajar
+## 🎬 Mi loop creativo
 
 ```text
-01. Descubrir       Entender el objetivo y el proceso real
-02. Diseñar         Convertir necesidades en una propuesta clara
-03. Construir       Desarrollar por etapas y compartir avances
-04. Verificar       Probar lo acordado antes de publicar
-05. Entregar        Poner la solución en marcha
-06. Acompañar       Documentar, mejorar y dar soporte
+┌──────────────────────────────────────────────────────────┐
+│  observar → imaginar → diseñar → programar → probar      │
+│      ↑                                      ↓             │
+│      └──────────── aprender ← entregar ← mejorar ────────┘
+└──────────────────────────────────────────────────────────┘
 ```
 
-## 🤝 ¿Construimos algo?
+## 🤝 ¿Tienes una idea?
 
-Si tienes una idea, un proceso que mejorar o un producto que quieres llevar a producción, hablemos.
+Si tienes un proceso que mejorar, un producto que lanzar o una solución que imaginar, **hablemos**.
 
 <div align="center">
 
@@ -118,6 +176,10 @@ Si tienes una idea, un proceso que mejorar o un producto que quieres llevar a pr
 ---
 
 <div align="center">
+
+```text
+[ connection established ]  [ imagination online ]  [ pandas deployed ]
+```
 
 **Hecho con curiosidad, café y muchas ganas de construir.** ☕🐼
 
