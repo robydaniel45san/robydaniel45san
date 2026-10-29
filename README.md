@@ -1,18 +1,21 @@
 <div align="center">
 
-<a href="https://github.com/robydaniel45san">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:24104f,68:0f766e,100:facc15&height=240&section=header&text=ROBY%20DANIEL&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=software%20%7C%20datos%20%7C%20productos%20con%20prop%C3%B3sito&descAlignY=62&descSize=18" alt="Banner neón de Roby Daniel" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050716,35:17134a,70:083344,100:7c3aed&height=220&section=header&text=ROBY%20DANIEL&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=software%20%7C%20datos%20%7C%20productos%20con%20prop%C3%B3sito&descAlignY=64&descSize=18" width="100%" alt="Banner espacial de Roby Daniel" />
+
+<br />
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/roby-tech-galaxy.png" />
+  <img src="./assets/roby-tech-galaxy.gif" width="900" alt="Obra espacial animada ROBY-TECH SYSTEM con núcleo orbital, explorador y telemetría" />
+</picture>
+
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1100&color=67E8F9&center=true&vCenter=true&width=820&lines=Perfil+en+l%C3%ADnea%3A+ROBY+DANIEL;Construyo+software+%C3%BAtil+desde+Santa+Cruz;Exploro+IA%2C+datos%2C+APIs+y+productos;Corporaci%C3%B3n+Pandas+Dev+en+movimiento)](https://git.io/typing-svg)
 
-<a href="https://github.com/robydaniel45san">
-  <img src="https://raw.githubusercontent.com/robydaniel45san/robydaniel45san/main/assets/roby-tech-galaxy.gif" width="900" alt="Galaxia tecnológica animada de ROBY-TECH" />
-</a>
-
 </div>
 
-> 🌌 **ROBY-TECH SYSTEM:** una galaxia visual de ideas, código, productos y exploración. Esta pieza combina estrellas, órbitas, terminal, señal y núcleo tecnológico en una animación propia.
+> 🌌 **ROBY-TECH SYSTEM:** una portada visual propia para ideas, código, productos y exploración. El núcleo, las órbitas y la telemetría representan una señal en movimiento; el PNG se mantiene como respaldo para reducir movimiento.
 
 <table>
 <tr>
