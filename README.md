@@ -6,9 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1100&color=67E8F9&center=true&vCenter=true&width=820&lines=Perfil+en+l%C3%ADnea%3A+ROBY+DANIEL;Construyo+software+%C3%BAtil+desde+Santa+Cruz;Exploro+IA%2C+datos%2C+APIs+y+productos;Corporaci%C3%B3n+Pandas+Dev+en+movimiento)](https://git.io/typing-svg)
 
-<a href="https://github.com/robydaniel45san">`n  <img src="https://raw.githubusercontent.com/robydaniel45san/robydaniel45san/main/assets/roby-tech-galaxy.gif" width="900" alt="Galaxia tecnológica animada de ROBY-TECH" />`n</a>
+<a href="https://github.com/robydaniel45san">
+  <img src="https://raw.githubusercontent.com/robydaniel45san/robydaniel45san/main/assets/roby-tech-galaxy.gif" width="900" alt="Galaxia tecnológica animada de ROBY-TECH" />
+</a>
 
 </div>
+
+> 🌌 **ROBY-TECH SYSTEM:** una galaxia visual de ideas, código, productos y exploración. Esta pieza combina estrellas, órbitas, terminal, señal y núcleo tecnológico en una animación propia.
 
 <table>
 <tr>
