@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Corporación Pandas Dev</title>
+  <desc id="desc">Panda tecnológico en una escena espacial retro con el texto Corporación Pandas Dev.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#070b1f"/>
+      <stop offset=".58" stop-color="#11133a"/>
+      <stop offset="1" stop-color="#061d2a"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0" stop-color="#ec4899"/>
+      <stop offset=".48" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#86efac"/>
+    </linearGradient>
+    <linearGradient id="visor" x1="0" x2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#67e8f9" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="284" rx="20" fill="url(#grid)" stroke="#67e8f9" stroke-opacity=".22"/>
+
+  <g fill="#fff">
+    <circle cx="92" cy="58" r="2" opacity=".8"/>
+    <circle cx="222" cy="268" r="2" opacity=".6"/>
+    <circle cx="1018" cy="58" r="2" opacity=".8"/>
+    <circle cx="1110" cy="250" r="1.5" opacity=".7"/>
+    <circle cx="744" cy="42" r="1.5" opacity=".6"/>
+  </g>
+  <path d="M56 246C180 166 248 166 332 218" fill="none" stroke="#ec4899" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M848 76C958 24 1062 50 1146 112" fill="none" stroke="#67e8f9" stroke-opacity=".38" stroke-width="2"/>
+
+  <g transform="translate(82 52)">
+    <circle cx="118" cy="112" r="105" fill="#050816" stroke="#67e8f9" stroke-opacity=".55" stroke-width="3"/>
+    <circle cx="118" cy="112" r="92" fill="none" stroke="#ec4899" stroke-opacity=".45" stroke-width="2" stroke-dasharray="8 12"/>
+    <path d="M38 40L14 17M198 40l24-23" stroke="#86efac" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="31" cy="30" r="17" fill="#10152e" stroke="#ec4899" stroke-width="5"/>
+    <circle cx="205" cy="30" r="17" fill="#10152e" stroke="#ec4899" stroke-width="5"/>
+    <path d="M57 92C57 47 82 30 118 30s61 17 61 62v56c0 47-27 70-61 70s-61-23-61-70Z" fill="#f3f4f6" stroke="#050816" stroke-width="7"/>
+    <path d="M64 78C70 43 90 31 118 31s48 12 54 47c-14-14-28-20-54-20S78 64 64 78Z" fill="#111827"/>
+    <ellipse cx="76" cy="100" rx="24" ry="31" fill="#111827" transform="rotate(26 76 100)"/>
+    <ellipse cx="160" cy="100" rx="24" ry="31" fill="#111827" transform="rotate(-26 160 100)"/>
+    <path d="M80 119c9-13 25-16 38-7 13-9 29-6 38 7v25c-12 14-26 20-38 20s-26-6-38-20Z" fill="#e5e7eb"/>
+    <circle cx="88" cy="106" r="8" fill="#67e8f9" filter="url(#glow)"/>
+    <circle cx="148" cy="106" r="8" fill="#67e8f9" filter="url(#glow)"/>
+    <path d="M107 128q11 8 22 0" fill="none" stroke="#111827" stroke-width="6" stroke-linecap="round"/>
+    <path d="M118 131v12" stroke="#111827" stroke-width="5" stroke-linecap="round"/>
+    <path d="M79 173q39 26 78 0" fill="none" stroke="#111827" stroke-width="7" stroke-linecap="round"/>
+    <path d="M29 164H4m40 20H13m176-20h25m-40 20h31" stroke="#86efac" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(370 72)">
+    <text x="0" y="26" fill="#86efac" font-family="monospace" font-size="16" letter-spacing="4">CPD // DIGITAL FRONTIER</text>
+    <text x="0" y="104" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" letter-spacing="1">CORPORACIÓN</text>
+    <text x="0" y="166" fill="url(#panel)" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" letter-spacing="1">PANDAS DEV</text>
+    <rect x="2" y="190" width="510" height="2" fill="url(#panel)"/>
+    <text x="0" y="226" fill="#cbd5e1" font-family="monospace" font-size="18" letter-spacing="2">SOFTWARE · DATOS · PRODUCTOS CON PROPÓSITO</text>
+    <g transform="translate(0 250)" fill="none" stroke-width="2">
+      <path d="M0 0h74l12-12h70" stroke="#67e8f9"/>
+      <path d="M190 0h60l12 12h88" stroke="#ec4899"/>
+      <circle cx="162" cy="0" r="5" fill="#86efac" stroke="#86efac"/>
+      <circle cx="265" cy="0" r="5" fill="#ec4899" stroke="#ec4899"/>
+    </g>
+  </g>
+</svg>
